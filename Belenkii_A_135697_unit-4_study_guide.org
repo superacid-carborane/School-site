@@ -1,0 +1,70 @@
+#+SETUPFILE: ./theme-bigblow.setup
+#+TITLE: Unit 4 Guided Notes/ Study Guide for Government 403
+/*Answer these questions while reading through the course or attending class connect sessions. At the end of the unit, upload the completed assignment to the dropbox.*/
+
+Saving your TGA: 
+#+BEGIN_QUOTE
+Last Name, First Name Initial Student ID#​_​Unit 4 Study Guide
+#+END_QUOTE
+Example: 
+#+BEGIN_QUOTE
+Smith, J 1234567​_​Unit 4 Study Guide
+#+END_QUOTE
+Topics Covered:
+- Suffrage/Gaining the right to vote
+- Demographics and Political Participation
+- Political Socialization
+- Political Opinions
+- Political Spectrum: Liberal vs. Conservative
+- Political Polling
+* Terms 
+Define and/or explain:
+
+** Demographics
+
+** Affirmative Action
+
+** Suffrage
+
+** Stake 
+
+** Voting Rights Act
+
+** political efficacy
+
+** political socialization
+
+** Conservative
+
+** Liberal
+
+** Nolan model
+
+** linear model
+
+** straw poll
+
+** push poll
+
+** Gallup poll
+
+** exit poll
+
+** bias
+
+* Purposes of Select Amendments
+** 15th
+** 19th
+** 23rd
+** 24th
+** 26th
+
+* Questions
+
+** Who is more likely to vote? Why?
+** What is the political spectrum?
+** What are some types of polls and some of the problems with polls?
+** What was the difference between the Federalists and anti-Federalists?
+** What are some ways people participate in the political process? Why do some people feel disconnected from that process?
+
+
